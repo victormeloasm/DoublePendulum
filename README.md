@@ -2,6 +2,9 @@
 
 This repository contains a MATLAB implementation of a double pendulum simulation. The double pendulum is a classic example in physics that exhibits chaotic behavior. This simulation allows you to visualize and analyze the motion of a double pendulum system.
 
+[![Simulation Result](https://img.youtube.com/vi/snzIGyUKr4w/0.jpg)](https://www.youtube.com/watch?v=snzIGyUKr4w)
+
+
 ## Dependencies
 
 To run the double pendulum simulation, you need to have the following software installed:
