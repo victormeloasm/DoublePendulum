@@ -39,7 +39,6 @@ The implementation of the double pendulum simulation is based on the principles 
 ## Contributing
 
 Contributions to enhance the functionality, performance, or documentation of the double pendulum simulation are welcome. If you find any issues or have ideas for improvements, please submit them as GitHub issues or create a pull request.
-Thank you for providing your email, Victor Duarte Melo. Here's an updated section with your email:
 
 ## Contact
 
